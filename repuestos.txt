@@ -1,0 +1,2 @@
+4654,Motor,Tipo electrico,450,3
+196,Bomba de agua,Tipo Volumetrica,650,4

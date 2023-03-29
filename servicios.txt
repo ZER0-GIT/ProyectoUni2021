@@ -1,0 +1,3 @@
+01,Mantenimiento preventivo,limpieza,20
+02,Mantenimiento correctivo,incluye cambio de piezas/repuestos,100
+03,Reparaciones,Correcion de fallas,20

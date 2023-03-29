@@ -1,0 +1,2 @@
+12,Miguel Angel,Santos Domigos,La Pampa,985654753,Miguel@mail.com,Diseño
+16,Diego,Maradona,Cementerio,951357789,Dieguito@mail.com,Mantenimiento
