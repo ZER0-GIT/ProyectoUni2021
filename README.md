@@ -1,2 +1,2 @@
-# ProyectoUni2021
-Este es un proyecto al inicio de mis carreras cuando recién aprendí a programar
+PROYECTO DE PANELES JAVA 11
+Proyecto desarrollado en la universidad
